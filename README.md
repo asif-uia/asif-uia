@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/asif--uia-%23181717?style=for-the-badge&logo=github&logoColor=orange&color=000)](https://github.com/asif-uia)
 
 <br/>
--   📮 Reach me through **asif07c@gmail.com**
+- 📮 Reach me through **asif07c@gmail.com**
 
 <table>
 <tr>
