@@ -1,4 +1,3 @@
-<h1 align="center">Hello 👋, I'm Asif-Ul</h1>
-<hr/>
+<h1 align="left">Hello 👋, I'm Asif-Ul</h1>
 
 <br/><br/>
