@@ -1,8 +1,10 @@
-<h1 align="left">Hello 👋, I'm Asif-Ul</h1>
-<br/>
+<h1 align="left">Hello 👋, I'm Asif</h1>
 
-[![](https://img.shields.io/badge/aasifislam-%23181717?style=flat-square&logo=linkedin&logoColor=0077b8&color=000)](https://www.linkedin.com/in/aasifislam)
-[![](https://img.shields.io/badge/asif--uia-%23181717?style=flat-square&logo=github&logoColor=orange&color=000)](https://github.com/asif-uia)
+[![](https://img.shields.io/badge/aasifislam-%23181717?style=for-the-badge&logo=linkedin&logoColor=0077b8&color=000)](https://www.linkedin.com/in/aasifislam)
+[![](https://img.shields.io/badge/asif--uia-%23181717?style=for-the-badge&logo=github&logoColor=orange&color=000)](https://github.com/asif-uia)
+
+<br/>
+-   📮 Reach me through **asif07c@gmail.com**
 
 <table>
 <tr>
