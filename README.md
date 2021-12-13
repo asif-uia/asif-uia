@@ -7,7 +7,7 @@
 	<li>💼 Currently I’m a <em>Software Engineer, Technology</em> at <a href="https://ssd-tech.io">SSD-TECH Ltd.</a></li>
 	<br/>
 	<li>📮 Connect me through **asif07c@gmail.com**</li>
-</ul>
+</ul></br/>
 
 <h4 align="left">Love to play with</h4>
 <p align="left">
