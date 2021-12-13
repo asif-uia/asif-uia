@@ -12,6 +12,8 @@
 	<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>&nbsp;
   	<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="35" height="35"/>&nbsp;
   	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> &nbsp;&nbsp;|&nbsp;&nbsp;
+  	<a href="https://djangoproject.com" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/django/django-original.svg" alt="django" width="35" height="35"/>&nbsp;
+  	<a href="https://reactjs.org" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/django/django-original.svg" alt="react" width="35" height="35"/>&nbsp;
   	<a href="https://developers.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="android" width="35" height="35"/>&nbsp;&nbsp;|&nbsp;&nbsp;
   	<a href="https://ubuntu.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="35" height="35"/> 
 </p>
