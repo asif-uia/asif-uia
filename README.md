@@ -1,11 +1,19 @@
-<h1 align="left">Hello 👋, I'm Asif-Ul</h1>
+<h1 align="left">Hey 👋, I'm Asif-Ul</h1>
 
 [![](https://img.shields.io/badge/aasifislam-%23181717?style=for-the-badge&logo=linkedin&logoColor=0077b8&color=000)](https://www.linkedin.com/in/aasifislam)&nbsp;
 [![](https://img.shields.io/badge/asif--uia-%23181717?style=for-the-badge&logo=github&logoColor=orange&color=000)](https://github.com/asif-uia)
 
--   💼 Currently working as a Software Engineer at SSD-TECH
-
--   📮 Connect me through **asif07c@gmail.com**
+ <table>
+	<tr>
+		<td>
+			<ul>
+				<li>💼 I’m a <em>Software Engineer, Technology</em> at <a href="https://ssd-tech.io">SSD-TECH Ltd.</a></li>
+				<br/>
+				<li>📮 Connect me through **asif07c@gmail.com**</li>
+			</ul>
+		</td>
+	</tr>
+ </table>
 
 <h4 align="left">Love to play with</h4>
 <p align="left">
