@@ -7,14 +7,32 @@
 
 <h4 align="left">Love to play with</h4>
 <p align="left">
-	<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a>&nbsp;
-	<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;
-  	<a href="https://cplusplus.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a>&nbsp;
-  	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  	<a href="https://djangoproject.com" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>&nbsp;
-  	<a href="https://reactjs.org" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>&nbsp;
-  	<a href="https://developers.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="android" width="40" height="40"/></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  	<a href="https://ubuntu.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/></a>
+	<a href="https://www.java.com" target="_blank"> 
+	 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+	</a>&nbsp;
+	<a href="https://www.python.org" target="_blank">
+	 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+	</a>&nbsp;
+  	<a href="https://cplusplus.com" target="_blank">
+	 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
+	</a>&nbsp;
+  	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+	 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+	</a>
+	&nbsp;&nbsp;|&nbsp;&nbsp;
+  	<a href="https://djangoproject.com" target="_blank"> 
+	 <img src="https://github.com/devicons/devicon/raw/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+	</a>&nbsp;
+  	<a href="https://reactjs.org" target="_blank"> 
+	 <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+	</a>&nbsp;
+  	<a href="https://developers.android.com" target="_blank"> 
+	 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="android" width="40" height="40"/>
+	</a>
+	&nbsp;&nbsp;|&nbsp;&nbsp;
+  	<a href="https://ubuntu.com" target="_blank"> 
+	 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+	</a>
 </p>
 </br>
 <table>
