@@ -1,7 +1,10 @@
 <h1 align="left">Hey 👋, I'm Asif-Ul</h1>
 
-[![](https://img.shields.io/badge/aasifislam-%23181717?style=for-the-badge&logo=linkedin&logoColor=0077b8&color=000)](https://www.linkedin.com/in/aasifislam)&nbsp;
-[![](https://img.shields.io/badge/asif--uia-%23181717?style=for-the-badge&logo=github&logoColor=orange&color=000)](https://github.com/asif-uia)
+<!-- [![](https://img.shields.io/badge/aasifislam-%23181717?style=for-the-badge&logo=linkedin&logoColor=0077b8&color=000)](https://www.linkedin.com/in/aasifislam)&nbsp; -->
+<!-- [![](https://img.shields.io/badge/asif--uia-%23181717?style=for-the-badge&logo=github&logoColor=orange&color=000)](https://github.com/asif-uia) -->
+
+[![](https://img.shields.io/badge/aasifislam-%2523181717?style=flat&logo=linkedin&logoColor=0077b8&color=00001f)](https://www.linkedin.com/in/aasifislam)&nbsp;
+[![](https://img.shields.io/badge/asif--uia-%23181717?style=flat&logo=github&logoColor=orange&color=00001f)](https://github.com/asif-uia)
 
 <ul>
 	<li>💼 Currently I’m a <em>Software Engineer, Technology</em> at <a href="https://ssd-tech.io">SSD-TECH Ltd.</a></li>
