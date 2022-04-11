@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/asif--uia-%23181717?style=flat&logo=github&logoColor=orange&color=00001f)](https://github.com/asif-uia)
 
 <ul>
-	<li>💼 Currently I’m a <em>Software Engineer</em> at <a href="https://dotlines.com.sg">Dotlines Ltd.</a></li>
+	<li>💼 Currently I’m a <em>Software Engineer</em> at <a href="https://ssd-tech.io">SSD-TECH Ltd.</a></li>
 	<br/>
 	<li>📮 Connect me through <a href="mailto:asif07c@gmail.com"><strong>asif07c@gmail.com</strong></a></li>
 </ul></br/>
