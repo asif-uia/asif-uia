@@ -4,7 +4,7 @@
 <!-- [![](https://img.shields.io/badge/asif--uia-%23181717?style=for-the-badge&logo=github&logoColor=orange&color=000)](https://github.com/asif-uia) -->
 
 ![Profile views](https://komarev.com/ghpvc/?username=asif-uia)&nbsp;
-[![](https://img.shields.io/badge/aasifislam-%2523181717?logo=linkedin&logoColor=0077ff&color=5B5B5B)](https://www.linkedin.com/in/aasifislam)
+[![](https://img.shields.io/badge/aasifislam-%2523181717?logo=linkedin&logoColor=0B7CBC&color=5B5B5B)](https://www.linkedin.com/in/aasifislam)
 
 [//]: # ([![]&#40;https://img.shields.io/badge/asif--uia-%23181717?style=flat&logo=github&logoColor=orange&color=00001f&#41;]&#40;https://github.com/asif-uia&#41;)
 
