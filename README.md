@@ -3,8 +3,10 @@
 <!-- [![](https://img.shields.io/badge/aasifislam-%23181717?style=for-the-badge&logo=linkedin&logoColor=0077b8&color=000)](https://www.linkedin.com/in/aasifislam)&nbsp; -->
 <!-- [![](https://img.shields.io/badge/asif--uia-%23181717?style=for-the-badge&logo=github&logoColor=orange&color=000)](https://github.com/asif-uia) -->
 
-[![](https://img.shields.io/badge/aasifislam-%2523181717?style=flat&logo=linkedin&logoColor=0077b8&color=00001f)](https://www.linkedin.com/in/aasifislam)&nbsp;
-[![](https://img.shields.io/badge/asif--uia-%23181717?style=flat&logo=github&logoColor=orange&color=00001f)](https://github.com/asif-uia)
+![Profile views](https://gpvc.arturio.dev/asif-uia)&nbsp;
+[![](https://img.shields.io/badge/aasifislam-%2523181717?logo=linkedin&logoColor=0077b8&color=5B5B5B)](https://www.linkedin.com/in/aasifislam)
+
+[//]: # ([![]&#40;https://img.shields.io/badge/asif--uia-%23181717?style=flat&logo=github&logoColor=orange&color=00001f&#41;]&#40;https://github.com/asif-uia&#41;)
 
 <ul>
 	<li>💼 Currently I’m a <em>Software Engineer</em> at <a href="https://ssd-tech.io">SSD-TECH Ltd.</a></li>
