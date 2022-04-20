@@ -1,8 +1,5 @@
 <h1 align="left">Hey <img src="https://i.imgur.com/GNz3qCl.gif" width="28px">, I'm Asif</h1>
 
-<!-- [![](https://img.shields.io/badge/aasifislam-%23181717?style=for-the-badge&logo=linkedin&logoColor=0077b8&color=000)](https://www.linkedin.com/in/aasifislam)&nbsp; -->
-<!-- [![](https://img.shields.io/badge/asif--uia-%23181717?style=for-the-badge&logo=github&logoColor=orange&color=000)](https://github.com/asif-uia) -->
-
 ![Profile views](https://komarev.com/ghpvc/?username=asif-uia)&nbsp;
 [![](https://img.shields.io/badge/aasifislam-%2523181717?logo=linkedin&logoColor=0B7CBC&color=5B5B5B)](https://www.linkedin.com/in/aasifislam)
 
@@ -49,8 +46,8 @@
 <br>
 <table>
 <tr>
-	<td><img src="http://github-readme-streak-stats.herokuapp.com?user=asif-uia&show_icons=true&theme=radical&hide=html"/></td>
-	<td><img src="https://github-readme-stats.vercel.app/api?username=asif-uia&show_icons=true&theme=radical&hide=html" alt="asif-uia"/></td>
+	<td><img src="https://github-readme-streak-stats.herokuapp.com?user=asif-uia&show_icons=true&theme=onedark&hide=html"/></td>
+	<td><img src="https://github-readme-stats.vercel.app/api?username=asif-uia&show_icons=true&theme=onedark&hide=html" alt="asif-uia"/></td>
 
 [//]: # (	<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif-uia&theme=tokyonight&layout=compact&hide=html" alt="asif-uia"/></td>)
 </tr>
