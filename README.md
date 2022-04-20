@@ -46,10 +46,12 @@
 	 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
 	</a>
 </p> -->
-</br>
+<br>
 <table>
 <tr>
-	<td><img src="http://github-readme-streak-stats.herokuapp.com?user=asif-uia&theme=tokyonight&layout=compact&hide=html"/></td>
-	<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif-uia&theme=tokyonight&layout=compact&hide=html" alt="asif-uia"/></td>
+	<td><img src="http://github-readme-streak-stats.herokuapp.com?user=asif-uia&show_icons=true&theme=radical&hide=html"/></td>
+	<td><img src="https://github-readme-stats.vercel.app/api?username=asif-uia&show_icons=true&theme=radical&hide=html" alt="asif-uia"/></td>
+
+[//]: # (	<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif-uia&theme=tokyonight&layout=compact&hide=html" alt="asif-uia"/></td>)
 </tr>
 </table>
