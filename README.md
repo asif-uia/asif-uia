@@ -1,4 +1,4 @@
-<h1 align="left">Hey <img src="https://i.imgur.com/GNz3qCl.gif" width="28px">, I'm Asif</h1>
+<h1 align="left">Hey <img src="https://i.imgur.com/GNz3qCl.gif" height="28px">, I'm Asif</h1>
 
 ![Profile views](https://komarev.com/ghpvc/?username=asif-uia)&nbsp;
 [![](https://img.shields.io/badge/aasifislam-%2523181717?logo=linkedin&logoColor=0B7CBC&color=5B5B5B)](https://www.linkedin.com/in/asif-uia)
