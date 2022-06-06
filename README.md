@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/aasifislam-%2523181717?logo=linkedin&logoColor=0B7CBC&color=5B5B5B)](https://www.linkedin.com/in/asif-uia)
 
 <ul>
-	<li>💼 Currently I’m a <em>Software Engineer</em> at <a href="https://ssd-tech.io">SSD-TECH Ltd.</a></li>
+	<li>💼 Currently I’m a <em>Software Engineer</em> at <a href="https://ssd-tech.io">SSD-TECH Ltd</a></li>
 	<br/>
 	<li>📮 Connect me through <a href="mailto:asif07c@gmail.com"><strong>asif07c@gmail.com</strong></a></li>
 </ul></br/>
